@@ -8,3 +8,5 @@ frente, exemplo:  meio = meio + 1, esse novo índice do meio é então comparado
 por completo o vetor até sua parte final. No caso de o valor chave for menor que o meio a busca é realizada sobre os índices anteriores ao índice do
 meio, para isso o valor do índice meio será: meio = meio - 1, onde o meio é deslocado para os índices iniciais do vetor até que o valor encontrado no índice meio seja
 igual a chave ou acabe o vetor, chegando ao índice 0 e nessa posição o valor seja diferente da chave.
+
+Desenvolvido com base em "Pesquisa Binária" - fonte Wikipédia

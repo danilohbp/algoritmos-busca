@@ -4,7 +4,7 @@ chave = int(input("Digite o valor chave: "))
 v = [0,1,2,3,4,5,6,7,8,9]
 
 i = 0 # índice inicial
-f = len(v) - 1 # índice final: onde o tamanho do vetor é n - 1 
+f = len(v) - 1 # índice final: onde o índice final do vetor é n - 1 
 
 def pesquisa_binaria(chave, vetor, inicio, fim):
 	meio = math.ceil((inicio + fim)/2) # Arredonda para cima

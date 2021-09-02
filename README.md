@@ -9,7 +9,6 @@ A ideia é aprender na prática os principais algoritmos de busca e pensar em su
 ## Quais algoritmos pretendo implementar? (A listagem está em ordem)
 
 - [x] Pesquisa Binária;
-- [ ] Árvore de Busca:
 - [ ] Árvore de Busca Binária;
 - [ ] Árvore B;
 - [ ] Árvores (a,b);
